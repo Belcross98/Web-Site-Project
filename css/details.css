@@ -1,0 +1,13 @@
+.price{
+    font-size: 2rem;
+    color: green;
+}
+
+#slika{
+    width: 600px;
+    height: 500px;
+}
+
+.detalji{
+    padding-top: 50px;
+}

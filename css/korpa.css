@@ -1,0 +1,25 @@
+.korpa{
+    padding-top: 100px;
+}
+
+h3{
+    padding-top: 50px;
+}
+
+.dugme{
+    padding-top: 50px;
+}
+
+.price{
+    font-size: 2rem;
+    color: green;
+}
+
+.slike{
+    height: 10rem;
+    width: 17rem;
+}
+
+.nastavi{
+    padding-top: 40px;
+}
